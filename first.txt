@@ -1,3 +1,5 @@
 test1
 change from mac
-aaa!
+<<<<<<< HEAD
+change for a pull request
+Marged!
