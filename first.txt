@@ -1,4 +1,5 @@
 test1
 change from mac
+<<<<<<< HEAD
 change for a pull request
-change after making the pull request
+Marged!
